@@ -1,5 +1,5 @@
 # Setting up the Skywatcher ERQ6-R Pro Mount.
-![Note the alignment post.](../media/pub/eq6_tripod_top.jpg)
+![Note the alignment post.](../../media/pub/eq6_tripod_top.jpg)
 * Set up the (white) EQ6-R Pro tripod.
   - Extend the legs about 10" or so and tighten to medium-snug.
   - Note the black chunk on top of the tripod. This is
