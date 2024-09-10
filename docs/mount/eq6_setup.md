@@ -35,6 +35,7 @@
     spread.
   - Now tighten the lower knob until it is medium tight.
 
+![Alignment bolts](../../media/pub/eq6_alignment_bolts.jpg)
 * Install azimuth adjuster bolts.
   - Locate the 2 adjuster bolts, and screw them slightly into the
     appropriate holes, adjacent to the tripod's alignment post.
@@ -53,6 +54,9 @@
     adjust these knobs (loosen one, snug the other) until the Alt dial
     indicates your lattitude.
 
+![Counterweight bar](../../media/pub/eq6_weightbar.jpg)
+![Toe saver](../../media/pub/eq6_toesaver.jpg)
+
 * Add counter weights.
   - The __counterweight bar__ is a chrome bar that is stowed inside the mount.
     Loosen the small black knob on the north side of the mount and loosen it
@@ -64,6 +68,9 @@
     For a very small scope (e.g., the Lunt solar scope) you may only need one
     weight.
   - Replace the toe saver nut.
+
+![RA clutch](../../media/pub/eq6_RA_clutch.jpg)
+![saddle position](../../media/pub/eq6_OTA_prep.jpg)
 
 * Prepare mount for receiving OTA.
   - Each axis of the mount (RA and DEC) has a black clutch lever.  To adjust
