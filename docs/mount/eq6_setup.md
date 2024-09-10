@@ -2,8 +2,8 @@
 
 * Set up the tripod.
   - Extend the legs about 10" or so and tighten to medium-snug.
-  - Note the \"Black Chunk\" on top of the tripod. This is the __alignment
-    post__.
+  - Note the (important!) black chunk on top of the tripod. This is
+    the __alignment post__.
   - Orient the tripod so that the alignment post is pointing North.
 
 * Prepare to install the mount
@@ -19,7 +19,7 @@
 
 * Install the mount.
   - Lift the mount using the handle.
-  - __Orient the alignment hole with the alignment post__.
+  - Orient the __alignment hole__ with the __alignment post__.
   - Place the mount gently on the tripod.
   - Use the upper knob on the vertical chrome bar to screw it medium tight
     into the mount. This will secure the mount to the tripod.
@@ -28,30 +28,30 @@
   - Remove the lower knob __and washer__ from the vertical chrome bar.
   - Install the spider, flat side up, onto the chrome bar.
   - Screw the lower knob __and washer__ about 1/2\" onto the chrome bar.
-  - Adjust the spider so the 3 jaws engage the three legs.  You may find that
-    the tripod legs need to be pushed outwards a bit more.
+  - Adjust the spider so the 3 jaws engage the 3 tripod legs.  You may find that
+    the legs need to be pushed outwards a bit more.
   - Turn the lower knob until it just starts to feel snug. Then lift the
     tripod legs one at a time and wiggle them a bit to ensure they are fully
     spread.
   - Now tighten the lower knob until it is medium tight.
 
 * Install azimuth adjuster bolts.
-  -- Locate the 2 adjuster bolts, and screw them slightly into the
-     appropriate holes, adjacent to the tripod's alignment post.
-  -- Screw in the two bolts by equal amounts until you feel resistance in
-     _both_ bolts.  The bolts should be snug, not tight.
+  - Locate the 2 adjuster bolts, and screw them slightly into the
+    appropriate holes, adjacent to the tripod's alignment post.
+  - Screw in the two bolts by equal amounts until you feel resistance in
+    _both_ bolts.  The bolts should be snug, not tight.
 
 * Level the mount.
-  -- Note the bubble level on the West side of the mount.
-  -- Adjust the length of the tripod legs one at a time until the bubble is
-     centered.
-  -- Now tighten the tripod leg knobs to medium tight.
+  - Note the bubble level on the West side of the mount.
+  - Adjust the length of the tripod legs one at a time until the bubble is
+    centered.
+  - Now tighten the tripod leg knobs to medium tight.
 
 * Rough Alt. alignment.
-  -- The mount has a pair of Alt (altitude) adjustment knobs right next to
-     an Alt indicator dial.  Using the known lattitude of your observing site,
-     adjust these knobs (loosen one, snug the other) until the Alt dial
-     indicates your lattitude.
+  - The mount has a pair of Alt (altitude) adjustment knobs right next to
+    an Alt indicator dial.  Using the known lattitude of your observing site,
+    adjust these knobs (loosen one, snug the other) until the Alt dial
+    indicates your lattitude.
 
 * Add counter weights.
   - The __counterweight bar__ is a chrome bar that is stowed inside the mount.
