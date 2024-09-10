@@ -1,4 +1,6 @@
 # Setting up the Skywatcher ERQ6-R Pro Mount.
+
+![EQ6 in case.](../../media/pub/eq6_pelican.jpg)
 ![EQ6 tripod top.](../../media/pub/eq6_tripod_top.jpg)
 * Set up the (white) EQ6-R Pro tripod.
   - Extend the legs about 10" or so and tighten to medium-snug.
@@ -80,6 +82,8 @@
   - Adjust the DEC axis so that the mount __saddle__ (the topmost part that
     holds the scope) is horizontal with the two black knobs pointing down.
   - Ensure that both clutches are snug so the mount does not move.
+
+![HC and poer](../../media/pub/eq6_cables.jpg)
 
 * Hand control and Power.
   - Ensure that the power switch on the mount is turned off.
