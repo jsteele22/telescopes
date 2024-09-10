@@ -1,11 +1,12 @@
 # Setting up the Skywatcher ERQ6-R Pro Mount.
-![Note the alignment post.](../../media/pub/eq6_tripod_top2.jpg)
+![EQ6 tripod top.](../../media/pub/eq6_tripod_top.jpg)
 * Set up the (white) EQ6-R Pro tripod.
   - Extend the legs about 10" or so and tighten to medium-snug.
   - Note the black chunk on top of the tripod. This is
     the __alignment post__.
   - Orient the tripod so that the alignment post is pointing North.
 
+![EQ6 mount, alignment hole](../../media/pub/eq6_alignment_hole.jpg)
 * Prepare to install the mount
   - There is a vertical chrome bar beneath the tripod deck. The top end is
     threaded and should be free to rise up above the tripod deck; if not, screw
