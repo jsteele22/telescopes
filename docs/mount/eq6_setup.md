@@ -7,12 +7,12 @@
   - Note the black chunk on top of the tripod. This is
     the __alignment post__.
   - Orient the tripod so that the alignment post is pointing North.
-
-![EQ6 mount, alignment hole](../../media/pub/eq6_alignment_hole.jpg)
-* Prepare to install the mount
   - There is a vertical chrome bar beneath the tripod deck. The top end is
     threaded and should be free to rise up above the tripod deck; if not, screw
     the rod in until it becomes loose.
+
+![EQ6 mount, alignment hole](../../media/pub/eq6_alignment_hole.jpg)
+* Prepare to install the mount
   - Lift the mount just few inches, rotate it slightly and rest it on the
     packing foam of the case.
   - If the mount is loose and floppy, reach under the central part of the mount
