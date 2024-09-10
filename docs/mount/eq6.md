@@ -1,3 +1,4 @@
 #  Skywatcher EQ6-R Pro
 
-[packing list](eq6_packing.md)
+* [Packing List](eq6_packing.md)
+* [Setup](eq6_setup.md)
