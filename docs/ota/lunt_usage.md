@@ -34,23 +34,17 @@ position__ (always used by default) and the sun.
 
 * Precisely align the mount __azimuth__ using a compass (smartphone
   app).
-
 * Precisely align the mount __altitude__ using an inclinometer
   (smartphone app.)
-
 * Be sure the scope is very precisely in __home position__ when
   powering the mount on.
-
 * Be sure to use correct data for site location, time, etc.  
-
 * When you have the sun centered, use that point to update the alignment.
-
-* Each time you re-center on the Sun, use that point to update the alignment.
-
+* Each time you re-center the scope on the Sun, use that point to
+  update the alignment.
 * The tracking will improve more if the alignment points are widely
   separated.  So set up the scope and start the alignment well in
   advance.
-
 * Note that some mounts have a __park__ feature.  When told to park,
   the scope slews to its home position and stores its alignment data
   over a power cycle.  Thus, a preliminary alignment can be done well
