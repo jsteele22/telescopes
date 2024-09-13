@@ -27,9 +27,9 @@ a group, it is best to put more effort into aligning the scope precisely..
 ## Better Alignment
 
 For better alignment, use telescope control software (such as
-Stellarium) or the hand controller. There are only two alignment
-objects that you can use: the scope's __home position__ (always used
-by default) and the sun.
+Stellarium) or the hand controller. For solar observing, there are
+only two alignment targets that you can use: the scope's __home
+position__ (always used by default) and the sun.
 
 
 * Precisely align the mount __azimuth__ using a compass (smartphone
