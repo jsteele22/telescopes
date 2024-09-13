@@ -3,8 +3,8 @@
 The OTA should already mounted and balanced.
 
 For casual solar observing, precise alignment is not neccesary, but
-the sun will drift out of view. When using the scope for a group, it is
-best to put some effort into a more pcecise alignment.
+the sun will drift out of view more quickly. When using the scope for
+a group, it is best to put more effort into aligning the scope precisely..
 
 
 ## Easy Alignment
@@ -16,7 +16,7 @@ best to put some effort into a more pcecise alignment.
 * Power on the mount and enable solar tracking.
 * Point the scope towards the sun either using the hand controller or by
   using the clutches and moving the scope manually.
-* When you get close, watch the rear black disk of the solar finer.  You are
+* When you get close, watch the rear black disk of the solar finder.  You are
   looking for a bright spot, the "shadow" of the hole in the front black disk.
 * Using finer adjustments, move the scope until this spot is perfectly
   centered in the white circle of the rear finder disk.
@@ -26,23 +26,38 @@ best to put some effort into a more pcecise alignment.
 
 ## Better Alignment
 
-Follow the steps above, but try some of the following refinements.
+For better alignment, use telescope control software (such as
+Stellarium) or the hand controller. There are only two alignment
+objects that you can use: the scope's __home position__ (always used
+by default) and the sun.
 
-* Align the mount __azimuth__ using a compass (smartphone app).
-* Align the mount __altitude__ using an inclinometer (smartphone app.)
-* If using telescope control software (such as Stellarium):
-  - Be sure to use correct data for site location, time, etc.).  
-  - Each time you re-center on the Sun, use that point to update the alignment.
-* The tracking will improve more if the aligned can be updated on Sun positions
-  that are widely separated; i.e., at substantially different times.
+
+* Precisely align the mount __azimuth__ using a compass (smartphone
+  app).
+
+* Precisely align the mount __altitude__ using an inclinometer
+  (smartphone app.)
+
+* Be sure the scope is very precisely in __home position__ when
+  powering the mount on.
+
+* Be sure to use correct data for site location, time, etc.  
+
+* When you have the sun centered, use that point to update the alignment.
+
+* Each time you re-center on the Sun, use that point to update the alignment.
+
+* The tracking will improve more if the alignment points are widely
+  separated.  So set up the scope and start the alignment well in
+  advance.
 
 * Note that some mounts have a __park__ feature.  When told to park,
-  the scope slews to its home position and stores its alignment data in
-  non-volatile memory. It retains this data even when powered
-  off. Thus, several updates can be made to the alignment without
-  leaving the scope on for extended periods.  But be _very_ sure that
-  the scope doesn't move at all when powered off.
-
+  the scope slews to its home position and stores its alignment data
+  over a power cycle.  Thus, a preliminary alignment can be done well
+  in advance, and the scope parked and powered off.  When powered on
+  again, one update on the sun's current position should provide a
+  robust alignment.
+ 
 
 ## Pressure tuning the H-alpha line.
 
