@@ -71,14 +71,11 @@ Here is a simple method for tuning:
 * Loosen the knob about 2 or 3 turns from where it was when you found
   it. Here we are assuming the previous user left the scope tuned to
   an interesting wavelength.
-  
 * Obtain a sharp visual focus of the part of the sun you are
   interested in; e.g., a prominence on the sun's limb, or a central
   part of the solar disc.
-
 * Gradually tighten the knob, watching for a change in contrast in the
   region of interest.  It shouldn't take too many turns to see a change.
-
 
 NOTE: When taking images with a camera, the sun's rotation will be
 visible as a brightening/darkening of opposite edges of the sun.
