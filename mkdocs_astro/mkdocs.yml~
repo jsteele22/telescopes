@@ -1,0 +1,7 @@
+site_name: CC Astronomy Documentation
+
+docs_dir: mkdocs_src
+
+repo_url: https://github.com/jsteele22/telescopes
+
+
