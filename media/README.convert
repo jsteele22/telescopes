@@ -1,6 +1,0 @@
-
-Example command to resize photos.
-Note that aspect ratio is preserved; result fits into specified box.
-
-
-convert raw/eq6_tripod_top.jpg -resize 200x200 -strip -quality 86 pub/eq6_tripod_top.jpg

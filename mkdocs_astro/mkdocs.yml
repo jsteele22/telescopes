@@ -1,7 +1,12 @@
 site_name: CC Astronomy Documentation
-
+  
 docs_dir: website_src
 
 repo_url: https://github.com/jsteele22/telescopes
 edit_uri: https://github.com/jsteele22/telescopes/edit/main/mkdocs_astro/website_src/
+
+
+theme:
+  name: material
+
 
