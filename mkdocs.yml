@@ -1,9 +1,9 @@
 site_name: CC Astronomy Documentation
   
-docs_dir: website_src
+docs_dir: src
 
 repo_url: https://github.com/jsteele22/telescopes
-edit_uri: https://github.com/jsteele22/telescopes/edit/main/mkdocs_astro/website_src/
+edit_uri: https://github.com/jsteele22/telescopes/edit/main/src/
 
 
 theme:
