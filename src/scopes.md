@@ -7,7 +7,7 @@ Simple all-in-one approach.
 * [Dobsonian Telescopes](standalone/dobs.md)
 
 
-## Telescope Components
+## Component Telescopes
 Combine components to form a complete system.
 
 * An [optical tube assembly (OTA)](otas/index.md) gathers and focuses the light.
